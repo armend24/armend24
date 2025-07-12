@@ -5,5 +5,3 @@ I'm a computer science student who likes to learn about different tech topics. R
 I use this space to share my code and projects as I learn new things.
 
 Thanks for visiting.
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=armend24.armend24)
